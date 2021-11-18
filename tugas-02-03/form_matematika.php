@@ -14,7 +14,6 @@
                         $bulan=date('m');
                         $tanggal=date('d');
                         $tahun=date('Y'); 
-
                         switch ($hari) 
                         {
                             case"Sunday":$hari="Minggu";break;
